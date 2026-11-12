@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Hiking Club Meetup",
+    "category": "Sports",
+    "neighborhood": "Downtown College Park",
+    "location": "Lakeside Park",
+    "date": "2026-11-14",
+    "time": "10am"
+  },
+  {
+    "id": 2,
+    "title": "Campus Food Drive",
+    "category": "Volunteering",
+    "neighborhood": "Central Campus",
+    "location": "Hornbake Library",
+    "date": "2026-11-13",
+    "time": "2pm"
+  },
+  {
+    "id": 3,
+    "title": "Intramural Soccer Tryouts",
+    "category": "Sports",
+    "neighborhood": "South Campus",
+    "location": "Ludwig Field",
+    "date": "2026-11-18",
+    "time": "4pm"
+  },
+  {
+    "id": 4,
+    "title": "Open Mic Night",
+    "category": "Music",
+    "neighborhood": "Central Campus",
+    "location": "Stamp Student Union",
+    "date": "2026-11-15",
+    "time": "7pm"
+  },
+  {
+    "id": 5,
+    "title": "Intro to Robotics Workshop",
+    "category": "Tech",
+    "neighborhood": "North Campus",
+    "location": "A. James Clark Hall",
+    "date": "2026-11-17",
+    "time": "3pm"
+  },
+  {
+    "id": 6,
+    "title": "Student Art Showcase",
+    "category": "Arts",
+    "neighborhood": "Central Campus",
+    "location": "Art-Sociology Building",
+    "date": "2026-11-19",
+    "time": "5pm"
+  },
+  {
+    "id": 7,
+    "title": "Campus Cleanup Day",
+    "category": "Volunteering",
+    "neighborhood": "Central Campus",
+    "location": "McKeldin Mall",
+    "date": "2026-11-20",
+    "time": "9am"
+  },
+  {
+    "id": 8,
+    "title": "Jazz Ensemble Concert",
+    "category": "Music",
+    "neighborhood": "North Campus",
+    "location": "Clarice Smith Performing Arts Center",
+    "date": "2026-11-20",
+    "time": "8pm"
+  },
+  {
+    "id": 9,
+    "title": "Hackathon Info Session",
+    "category": "Tech",
+    "neighborhood": "North Campus",
+    "location": "Iribe Center",
+    "date": "2026-11-16",
+    "time": "6pm"
+  },
+  {
+    "id": 10,
+    "title": "Pickup Volleyball Night",
+    "category": "Sports",
+    "neighborhood": "Central Campus",
+    "location": "Eppley Recreation Center",
+    "date": "2026-11-21",
+    "time": "6pm"
+  }
+]

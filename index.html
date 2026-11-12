@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventure</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Eventure</h1>
+            <p>Connecting UMD students to interesting events on campus!</p>
+        </header>
+
+        <!-- Loading Status Section -->
+        <section class="status-section">
+            <h2>Data Loading Status</h2>
+            <div id="loading-status" class="status-display">
+                <p class="status-message">Ready to load data</p>
+            </div>
+            <button id="load-data-button" class="load-button">Load Eventure Data</button>
+        </section>
+
+        <!-- Category Filter Section -->
+        <section class="filter-section">
+            <label for="category-select">Filter by Category: </label>
+            <select id="category-select" class="filter-dropdown">
+                <option value="all">All categories</option>
+                <option value="Sports">Sports</option>
+                <option value="Volunteering">Volunteering</option>
+                <option value="Music">Music</option>
+                <option value="Tech">Tech</option>
+                <option value="Arts">Arts</option>
+            </select>
+        </section>
+
+        <!-- Upcoming Events Section -->
+        <section>
+            <div id="eventList">
+
+            </div>
+        </section>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
